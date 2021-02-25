@@ -151,8 +151,6 @@
 *  If you are accidentally missing from this list, send me an e-mail
 *  (``sami.vaarala@iki.fi``) and I'll fix the omission.
 */
-#pragma once
-
 #include "pch.h"
 
 // #include "duk_config.h"

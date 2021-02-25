@@ -1,5 +1,3 @@
-#pragma once
-
 #include "pch.h"
 
 #include "./missing_required_sections.h"

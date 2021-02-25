@@ -1,5 +1,3 @@
-#pragma once
-
 #include "pch.h"
 
 #include "./batch_file_adapter.h"

@@ -14,8 +14,6 @@
 * limitations under the License.
 */
 
-#pragma once
-
 #include "pch.h"
 
 #include "./default_role_manager.h"

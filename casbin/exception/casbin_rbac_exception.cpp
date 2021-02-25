@@ -1,5 +1,3 @@
-#pragma once
-
 #include "pch.h"
 
 #include "./casbin_rbac_exception.h"
